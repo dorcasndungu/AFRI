@@ -1,6 +1,6 @@
 # afri_app
 
-A new Flutter project.
+A fluter project fot travelling abroad
 
 ## Getting Started
 
